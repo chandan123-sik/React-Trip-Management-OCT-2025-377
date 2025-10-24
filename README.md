@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # React + Vite
 
@@ -19,3 +20,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # React-Assignment
 Hello Everyone....
 
+=======
+# React-Trip-Management-OCT-2025-377
+>>>>>>> 060100f9e32356d6a5a76f80fc7b792339ae124b
