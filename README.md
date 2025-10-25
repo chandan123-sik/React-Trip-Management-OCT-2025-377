@@ -1,3 +1,16 @@
+🌄 UI Preview / Screenshots-
+Below are some visuals of the Trip Manager App, including Dashboard, Add Trip, and Edit Trip pages.
+
+<p align="center">
+  <img src="./public/screenshots/Dashboard.png" alt="Dashboard Preview" width="800" />
+</p>
+<p align="center">
+  <img src="./public/screenshots/NewTrip.png" alt="Dashboard Preview" width="800" />
+</p>
+<p align="center">
+  <img src="./public/screenshots/EditTrip.png" alt="Dashboard Preview" width="800" />
+</p>
+
 🧭 How to Run the Project-
 1. Navigate to the Project Directory:
    cd Folder_name
@@ -56,9 +69,3 @@ Frontend:
 Development Tools:
 💻 Vite / Create React App – Fast and easy React project setup and development environment.
 🔧 ESLint + Prettier (optional) – For maintaining clean and consistent code style.
-
-🌄 UI Preview / Screenshots-
-Below are some visuals of the Trip Manager App, including Dashboard, Add Trip, and Edit Trip pages.
-
-
-
