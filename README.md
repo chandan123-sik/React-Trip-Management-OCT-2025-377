@@ -4,7 +4,12 @@ Below are some visuals of the Trip Manager App, including Dashboard, Add Trip, a
 <p align="center">
   <img src="./public/screenshots/Dashboard.png" alt="Dashboard Preview" width="800" />
 </p>
-
+<p align="center">
+  <img src="./public/screenshots/NewTrip.png" alt="Dashboard Preview" width="800" />
+</p>
+<p align="center">
+  <img src="./public/screenshots/EditTrip.png" alt="Dashboard Preview" width="800" />
+</p>
 
 🧭 How to Run the Project-
 1. Navigate to the Project Directory:
